@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This Free extension adds a new payment method to your Magento store. It is quite similar to Check / Money Order, but allows customers to upload a scanned check as payment proof.
